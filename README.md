@@ -85,21 +85,6 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 
 ---
 
-## Projets sélectionnés
-
-| Projet | Description | Stack |
-|---|---|---|
-| [Daymond Collaboration](https://play.google.com/store/apps/details?id=com.innovat.daymond_collaboration_app) | Plateforme collaborateurs : missions, performances, com. interne | Flutter · Laravel · MySQL |
-| [SmartFin App](https://apps.apple.com/ci/app/smartfin-app/id6474931765) | Gestion de finances personnelles | Flutter · Laravel · MySQL |
-| [Daymond Destrib](https://apps.apple.com/ci/app/daymond/id6739063062) | Dropshipping en Afrique | Flutter · Laravel · MySQL |
-| [Diby Production](https://www.dibyproduction.com/) | Site studio de production musicale | Next.js · TypeScript |
-| [Valorisor](https://valorisor.daymondboutique.com/) | E-commerce produits & commandes | PHP · Bootstrap · MySQL |
-| [ChopChap](https://chopchap.com/) | E-commerce avec paiement intégré | PHP · Tailwind · MySQL |
-
-👉 Plus de réalisations sur [guymosley.com](https://www.guymosley.com)
-
----
-
 ## Stats GitHub
 
 <div align="center">
