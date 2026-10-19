@@ -22,7 +22,7 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=DevOpsGuy-Mosley&style=flat-square&color=3B82F6" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile_Views-DevOpsGuy--Mosley-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Profile" />
   <img src="https://img.shields.io/badge/Status-Disponible-22C55E?style=flat-square" alt="Disponible" />
   <img src="https://img.shields.io/badge/Localisation-Abidjan%2C%20CI-F59E0B?style=flat-square" alt="Localisation" />
 
@@ -38,11 +38,11 @@ Développeur **Full-Stack · Flutter** basé à Abidjan. J'accompagne entreprise
 
 Mon objectif : livrer des applications **fiables, rapides et élégantes** qui transforment des problématiques complexes en solutions simples à utiliser.
 
-- 🔭 Actuellement : apps web & mobile (Flutter, Next.js, Laravel)
-- 🌱 En apprentissage : DevOps, CI/CD & architecture cloud
-- 💼 Ouvert aux missions freelance & contrats
-- 📫 Contact : [kouadioguymosley@gmail.com](mailto:kouadioguymosley@gmail.com)
-- 🌐 Portfolio : [www.guymosley.com](https://www.guymosley.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="16" height="16" alt="" /> Actuellement : apps web & mobile (Flutter, Next.js, Laravel)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16" alt="" /> En apprentissage : DevOps, CI/CD & architecture cloud
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="" /> Ouvert aux missions freelance & contrats
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" height="16" alt="" /> Contact : [kouadioguymosley@gmail.com](mailto:kouadioguymosley@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="16" height="16" alt="" /> Portfolio : [www.guymosley.com](https://www.guymosley.com)
 
 ---
 
@@ -54,6 +54,8 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 | 02 | **Applications Mobile** | iOS & Android (Flutter) |
 | 03 | **UI/UX Design** | Maquettes & prototypage |
 | 04 | **Intégration API** | Backend & services |
+| 05 | **Déploiement Stores** | Publication App Store & Google Play |
+| 06 | **Paiements mobiles** | Configuration Google Pay & Apple Pay |
 
 ---
 
@@ -70,6 +72,9 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -77,9 +82,18 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Apple](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+
+### Paiements
+![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
+![Apple Pay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=applepay&logoColor=white)
 
 ### Base de données & outils
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
