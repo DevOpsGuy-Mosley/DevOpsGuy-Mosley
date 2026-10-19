@@ -104,8 +104,8 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 ## Stats GitHub
 
 <div align="center">
-  <img height="160em" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="160em" src="./profile/top-langs.svg" alt="Top Langs" />
+  <img height="160em" src="./profile/stats.svg?v=2" alt="GitHub Stats" />
+  <img height="160em" src="./profile/top-langs.svg?v=2" alt="Top Langs" />
 </div>
 
 <br />
