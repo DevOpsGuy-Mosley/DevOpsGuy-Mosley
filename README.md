@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Guy-Mosley&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+
 <!-- Banner animé -->
 <div align="center">
 
@@ -95,7 +97,7 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOpsGuy-Mosley&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DevOpsGuy-Mosley&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -134,3 +136,5 @@ Un projet en tête ? Discutons-en.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Merci+de+votre+visite+%E2%9C%A8;Let's+build+something+great+together" alt="Footer typing" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
