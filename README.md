@@ -101,11 +101,11 @@ Mon objectif : livrer des applications **fiables, rapides et élégantes** qui t
 
 ---
 
-## Stats GitHub (repos publics)
+## Stats GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevOpsGuy-Mosley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOpsGuy-Mosley&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="160em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="160em" src="./profile/top-langs.svg" alt="Top Langs" />
 </div>
 
 <br />
